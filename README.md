@@ -8,4 +8,4 @@ As a proof of concept, the current script can also be run with the appropriate "
 
 The following image shows the tool ran on a four cylinder engine:
 
-![tool interface](https://github.com/connergrinstead/compression-check/screenshot.png)
+![tool interface](https://github.com/connergrinstead/compression-check/blob/main/screenshot.png)
